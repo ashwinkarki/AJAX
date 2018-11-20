@@ -1,0 +1,12 @@
+com\ashwin\springwebstuck\controller\PageController.class
+com\ashwin\springwebstuck\dao\impl\ProductDaoImpl.class
+com\ashwin\springwebstuck\controller\ManagementController.class
+com\ashwin\springwebstuck\config\HibernateConfig.class
+com\ashwin\springwebstuck\dao\ProductDAO.class
+com\ashwin\springwebstuck\dao\impl\CategoryDaoImpl.class
+com\ashwin\springwebstuck\exception\GlobalDefaultExceptionHandler.class
+com\ashwin\springwebstuck\exception\ProductNotFoundException.class
+com\ashwin\springwebstuck\entity\Product.class
+com\ashwin\springwebstuck\entity\Category.class
+com\ashwin\springwebstuck\dao\CategoryDAO.class
+com\ashwin\springwebstuck\controller\JsonDataController.class
